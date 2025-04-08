@@ -44,7 +44,7 @@ It includes users, movies, genres, ratings, and viewing history – allowing dat
 
 ---
 📊 Power BI Dashboard
-This repository also includes a Power BI report (netflix_dashboard.pbix) based on the database schema and data.
+This repository also includes a Power BI report (netflix-sql.pbix) based on the database schema and data.
 
 Report includes:
 Average movie ratings by title
