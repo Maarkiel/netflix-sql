@@ -43,5 +43,25 @@ It includes users, movies, genres, ratings, and viewing history – allowing dat
 - Pure SQL (no frameworks)
 
 ---
+📊 Power BI Dashboard
+This repository also includes a Power BI report (netflix-sql.pbix) based on the database schema and data.
+
+Report includes:
+Average movie ratings by title
+
+Average ratings by genre
+
+Most active users by number of ratings
+
+Average ratings by release year
+
+This dashboard can be used for data analysis, reporting, and as part of a portfolio for data-related job applications.
+
+🔧 How to open:
+To view the report, download and install Power BI Desktop, then open the .pbix file.
+---
+### 🖼️ Preview:
+![image](https://github.com/user-attachments/assets/b2b88ef1-8909-4535-af1a-d50d73b47a9f)
+
 
 > This project is for learning and portfolio purposes – a strong base for data analysis, reporting, and BI-style queries.
